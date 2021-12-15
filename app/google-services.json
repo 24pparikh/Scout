@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "15067826438",
+    "project_id": "scout-70fa6",
+    "storage_bucket": "scout-70fa6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:15067826438:android:c11f49009ab2ce30f77687",
+        "android_client_info": {
+          "package_name": "com.example.scout"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "15067826438-qs0coks0oplt1pd6teeo3ljbu5q34v19.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLNMsGmuNR_6u1JI-1gzdDlNQff28he9c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "15067826438-qs0coks0oplt1pd6teeo3ljbu5q34v19.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
