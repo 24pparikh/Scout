@@ -1,7 +1,5 @@
 # FBLA Coding and Programming - Scout
 
-Switch to the master branch to access the code. 
-
 # Description
 This program allows users to search for attractions based on certain attributes. There are no limitations, and all locations around the world are included. Users must first register for an account and then verify their account. From there, log in with the same credentials. Then type in any location to be directed there on the map. If the user forgets there password, click the forgot password link on the home page and reset the passsword through the link sent to the email.  
 
