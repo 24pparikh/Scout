@@ -17,10 +17,13 @@ Dependencies Implemented in Program:
 
 https://github.com/Karumi/Dexter
 
-
 https://github.com/mancj/MaterialSearchBar
 
 https://github.com/skyfishjy/android-ripple-background
+
+Location Pin Download Link:
+
+https://www.reshot.com/free-svg-icons/item/location-marker-ZE5Y87KGQF/
 
 # Licences 
 MIT License
